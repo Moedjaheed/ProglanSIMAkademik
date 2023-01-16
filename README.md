@@ -1,3 +1,3 @@
 # ProglanSIMAkademik
-Advanced Programming's Final Project
+Advanced Programming's Final Project \n
 Sistem Informasi Akdemik (SIMAkademik) program made in C++ 
